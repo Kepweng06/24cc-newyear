@@ -74,7 +74,7 @@ body, html {
     }
 
 .top img {
-    width: 65%;
+    /* width: 65%; */
     display: block;
     /* padding-top: 18rem; */
     right: 10%;
