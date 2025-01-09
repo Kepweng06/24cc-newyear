@@ -61,7 +61,7 @@ body, html {
 .btn {
     position: absolute;
     /* justify-items: center; */
-    right: 23%;
+    right: 30%;
     top: 63%;
     display: flex;
     flex-direction: column;
@@ -229,7 +229,7 @@ body, html {
         position: absolute;
         width: 2rem;
         display: inline-block;
-        top: -2rem;
+        top: 3rem;
         height: 2rem;
         right: 1rem;
     }
